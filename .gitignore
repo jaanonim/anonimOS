@@ -1,3 +1,4 @@
 boot/kernel.bin
-/build/
-/dist/
+build
+dist
+.vscode

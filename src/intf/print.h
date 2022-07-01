@@ -27,3 +27,5 @@ void print_clear();
 void print_char(char c);
 void print_str(char *s);
 void print_set_color(uint8_t forground, uint8_t background);
+uint8_t getKeyCode();
+char *toArray(int N);
